@@ -1,5 +1,8 @@
 # 💳 Credit Card Fraud Detection using Machine Learning
 
+![ML Logo](https://img.shields.io/badge/ML%20BI-FF0000?logo=ML&logoColor=white)
+![Level: Intermediate](https://img.shields.io/badge/Level-Intermediate-brightgreen)
+
 ##  Overview
 
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques. Due to the highly imbalanced nature of the dataset, special care is taken to ensure accurate fraud detection while minimizing false negatives.
