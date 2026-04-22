@@ -1,6 +1,6 @@
 # 💳 Credit Card Fraud Detection using Machine Learning
 
-![Machine Learning Logo](https://img.shields.io/badge/MachineLearning%20-FF0000?logo=Machine Learning&logoColor=white)
+![Machine Learning Logo](https://img.shields.io/badge/MachineLearning%20-FF0000?logo=MachineLearning&logoColor=white)
 ![Level: Intermediate](https://img.shields.io/badge/Level-Intermediate-brightgreen)
 
 ##  Overview
