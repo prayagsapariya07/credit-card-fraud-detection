@@ -64,7 +64,7 @@ Logistic Regression (Baseline Model)
 
 ---
 
-## 📊 Confusion Matrix
+##  Confusion Matrix
 
 |               | Predicted Normal | Predicted Fraud |
 | ------------- | ---------------- | --------------- |
