@@ -1,0 +1,10 @@
+# Dataset
+data/*.csv
+
+# Model (optional if too large)
+*.pkl
+
+# Python
+venv/
+__pycache__/
+*.pyc
