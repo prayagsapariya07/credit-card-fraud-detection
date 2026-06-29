@@ -3,6 +3,12 @@
 ![Machine Learning Logo](https://img.shields.io/badge/MachineLearning%20-FF0000?logo=MachineLearning&logoColor=white)
 ![Level: Intermediate](https://img.shields.io/badge/Level-Intermediate-brightgreen)
 
+### 🚀 Live Demo
+https://credit-card-fraud-detection-3lylg3xdjbpurrd2bmgm9d.streamlit.app/
+
+### 📂 GitHub Repository
+https://github.com/prayagsapariya07/credit-card-fraud-detection
+
 
 ## Overview
 
@@ -59,6 +65,17 @@ Model Used:
 - Precision
 - Recall
 - F1 Score
+
+## Screenshots
+
+<img width="1917" height="891" alt="P1" src="https://github.com/user-attachments/assets/c8ad0ad0-a49e-40c6-9485-271277f27b1b" />
+<img width="1442" height="527" alt="P2" src="https://github.com/user-attachments/assets/58c402c5-48f2-405b-8d41-22ee0b4ca7e4" />
+<img width="1462" height="585" alt="P3" src="https://github.com/user-attachments/assets/fe5573b3-bc92-4173-96ef-ceee0eb91b49" />
+
+
+Prediction
+
+Result
 
 ## Results
 
